@@ -92,3 +92,8 @@ Developed as part of the **CodSoft Python Programming Internship**.
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
+---
+
+## 📄 License
+
+This project was created for educational purposes as part of the **CodSoft AI Internship**.
