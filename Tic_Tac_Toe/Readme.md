@@ -82,4 +82,7 @@ python Tic_Tac_Toe.py
 
 ---
 
-**Developed as part of my journey in Python, Data Structures & Algorithms, and Artificial Intelligence.**
+## 📄 License
+
+This project was created for educational purposes as part of the **CodSoft AI Internship**.
+
