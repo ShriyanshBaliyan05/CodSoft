@@ -21,8 +21,8 @@ This repository contains all the projects completed during my internship at CodS
 
 ## Task 3
 - 🎬 MOVIE RECOMMENDATION SYSTEM
--Description :-
-A Python-based Movie Recommendation System that suggests movies based on the user's preferences. Users can select up to five movies they like from a predefined list, and the system analyzes their preferred genres to recommend similar movies. The project demonstrates the fundamentals of recommendation systems, genre-based filtering, user preference analysis, and decision-making using Python. It provides an interactive console-based experience and serves as a beginner-friendly introduction to recommendation engines.
+- Description :-
+ A Python-based Movie Recommendation System that suggests movies based on the user's preferences. Users can select up to five movies they like from a predefined list,       and the system analyzes their preferred genres to recommend similar movies. The project demonstrates the fundamentals of recommendation systems, genre-based filtering,     user preference analysis, and decision-making using Python. It provides an interactive console-based experience and serves as a beginner-friendly introduction to           recommendation engines.
 
 
 ## Technologies Used
